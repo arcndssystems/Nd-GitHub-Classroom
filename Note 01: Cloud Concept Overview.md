@@ -55,8 +55,8 @@ I found the quote interesting because the words of Leonard are now happening. Co
 
 I have learned 
 	<li> how to create a branch </li> 
-	<li> Create a file </li>  
-	<li> Perform a commit </li>  
+	<li> Create a file </li>
+ 	<li> Perform a commit </li>  
 
  
  <h2 id=”question”>Question</h2>
