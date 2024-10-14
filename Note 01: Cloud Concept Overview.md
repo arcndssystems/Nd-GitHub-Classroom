@@ -28,10 +28,9 @@ A web service is a piece of software that makes itself available over the intern
 AWS is a secure cloud platform that offers a broad set of global cloud-based products.
 
  
-![Alt Screen clipping taken: 9/2/2024 5:21 AM]
+![What is AWS](https://github.com/arcndssystems/Nd-GitHub-Classroom/blob/main/images/M1%20Sec3-what%20is%20AWS.png?raw=true)
  
-
- 
+Screen clipping taken: 9/2/2024 5:21 AM
  
  
  <h2 id=”commit”>Github Commit</h2>
